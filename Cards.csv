@@ -1,0 +1,42 @@
+1,1,Ace,Field a marble from home or move 1 step,1,SPADE
+1,1,Ace,Field a marble from home or move 1 step,1,HEART
+1,1,Ace,Field a marble from home or move 1 step,1,DIAMOND
+1,1,Ace,Field a marble from home or move 1 step,1,CLUB
+
+0,1,Four,Move 4 steps backward,4,SPADE
+0,1,Four,Move 4 steps backward,4,HEART
+0,1,Four,Move 4 steps backward,4,DIAMOND
+0,1,Four,Move 4 steps backward,4,CLUB
+
+0,1,Five,Move 5 steps forward,5,SPADE
+0,1,Five,Move 5 steps forward,5,HEART
+0,1,Five,Move 5 steps forward,5,DIAMOND
+0,1,Five,Move 5 steps forward,5,CLUB
+
+0,1,Seven,Split movement between two marbles,7,SPADE
+0,1,Seven,Split movement between two marbles,7,HEART
+0,1,Seven,Split movement between two marbles,7,DIAMOND
+0,1,Seven,Split movement between two marbles,7,CLUB
+
+0,1,Ten,Move 10 steps or skip turn,10,SPADE
+0,1,Ten,Move 10 steps or skip turn,10,HEART
+0,1,Ten,Move 10 steps or skip turn,10,DIAMOND
+0,1,Ten,Move 10 steps or skip turn,10,CLUB
+
+0,1,Jack,Swap two marbles,11,SPADE
+0,1,Jack,Swap two marbles,11,HEART
+0,1,Jack,Swap two marbles,11,DIAMOND
+0,1,Jack,Swap two marbles,11,CLUB
+
+1,1,Queen,Skip next player,12,SPADE
+1,1,Queen,Skip next player,12,HEART
+1,1,Queen,Skip next player,12,DIAMOND
+1,1,Queen,Skip next player,12,CLUB
+
+1,1,King,Field or move 13 steps,13,SPADE
+1,1,King,Field or move 13 steps,13,HEART
+1,1,King,Field or move 13 steps,13,DIAMOND
+1,1,King,Field or move 13 steps,13,CLUB
+
+14,2,Burner,Destroy another marble
+15,2,Saver,Save your marble
